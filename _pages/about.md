@@ -28,7 +28,7 @@ Email: chamodshyamal855@gmail.com
 ---
 * July 2025: Completed all academic requirements for the B.Sc. in Electronic and Telecommunication Engineering with First Class Honours ( GPA - 3.76/4.00 ).
 * May 2024: Completed internship as Machine Learning Engineer at MAS Bodyline (Pvt) Ltd.
-* December 2023: Started a job as a Computer Vision Engineer intern at MAS Bodyline (Pvt) Ltd.
+* December 2023: Started a job as a Machine Learning Engineer intern at MAS Bodyline (Pvt) Ltd.
 * April 2022: Joined the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 * June 2021: Entered the Faculty of Engineering, University of Moratuwa.
 * December 2019: Passed the G.C.E. Advanced Level Examination (2019) in the Physical Science stream – Ranked 50th in the country and 5th in the district with a Z-score of 2.7754.
