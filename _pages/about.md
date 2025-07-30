@@ -25,7 +25,7 @@ Email: chamodshyamal855@gmail.com
 
 ## News!
 ---
-* July 2025: Completed all academic requirements for the B.Sc. in Electronic and Telecommunication Engineering with First Class Honours ( GPA - 3.76 ).
+* July 2025: Completed all academic requirements for the B.Sc. in Electronic and Telecommunication Engineering with First Class Honours ( GPA - 3.76/4.00 ).
 * May 2024: Completed internship as Machine Learning Engineer at MAS Bodyline (Pvt) Ltd.
 * December 2023: Started a job as a Computer Vision Engineer intern at MAS Bodyline (Pvt) Ltd.
 * April 2022: Joined the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
