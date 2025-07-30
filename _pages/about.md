@@ -10,8 +10,9 @@ Email: chamodshyamal855@gmail.com
 {: .text-justify}
 
 
-<span style="color:blue">*I am a proactive final-year B.Sc. engineering student majoring in Electronic and Telecommunication Engineering at the University of Moratuwa. With high programming skills and strong mathematical thinking, my interests predominantly lie in systems and high-performance computing, Machine Learning, Generative AI, Video Game Development, and Software Engineering.*</span>
-
+<span style="color:blue">
+*I am a proactive B.Sc. Engineering graduate in Electronic and Telecommunication Engineering from the University of Moratuwa, with First Class Honours. With strong programming skills and mathematical thinking, my interests predominantly lie in systems and high-performance computing, Machine Learning, Generative AI, Video Game Development.*
+</span>
 
 
 
