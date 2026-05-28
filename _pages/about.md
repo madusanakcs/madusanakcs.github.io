@@ -26,6 +26,9 @@ Email: chamodshyamal855@gmail.com
 
 ## News!
 ---
+* February 2026: Received a scholarship from the Department of Computer Science at University of Warwick.
+* January 2026: Selected for the PhD program in Computer Science at University of Warwick.
+* August 2025: Joined Picke as a Software Engineer.
 * July 2025: Completed all academic requirements for the B.Sc. in Electronic and Telecommunication Engineering with First Class Honours ( GPA - 3.76/4.00 ).
 * May 2024: Completed internship as Machine Learning Engineer at MAS Bodyline (Pvt) Ltd.
 * December 2023: Started a job as a Machine Learning Engineer intern at MAS Bodyline (Pvt) Ltd.
